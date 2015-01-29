@@ -5,8 +5,7 @@ semester, new students with new laptops !!
 Lets make our fist landing great and memorable with a college wide
 installation fest, but slightly modified version of it with the title
 of "chooseyourdistro". Going forward Possibly we should try to do this
-every
-academic year beginning.
+every academic year beginning.
 
 ##So What is #chooseurdistro event ?
 
@@ -20,9 +19,8 @@ they liked much.
 
 ##Who will host the event ?
 
-Each college GLUG to host the event and strictly do it college wide
-(of course for non technical departments also) in the month of
-February in one or more phases.
+Each college GLUG to host the event and preferably do it college wide
+in one or more phases.
 
 ##When we can conduct this program ?
 
@@ -31,5 +29,5 @@ In the month of Feb
 ##What preparation we need ?
 
 I don’t think we have to be much prepared on it. However we need to
-choose operating system that we would pitch in with and come up with
+choose operating system that we would demostrate  and come up with
 FSMK's custom distro with necessary academic packages installed with.
